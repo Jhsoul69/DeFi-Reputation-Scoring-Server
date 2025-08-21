@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+numpy
+kafka-python
+pydantic
+python-dotenv
+structlog
+pydantic-settings
